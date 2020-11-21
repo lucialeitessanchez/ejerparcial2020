@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ejerparcial2020</string>
+    <string name="tv1">Ingrese las coordenadas</string>
+    <string name="rb">Seleccionar</string>
+    <string name="boton">Siguiente Actividad</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyD6unyo5s6jp67_9_E6Y6pod60IqJW4mws</string>
 </resources>
